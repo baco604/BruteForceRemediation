@@ -7,6 +7,9 @@ Investigated and responded to a successful brute-force attack against Azure virt
 
 ## Analysis
 
+<img width="1339" height="469" alt="Screenshot 2026-06-25 at 11 03 32 PM" src="https://github.com/user-attachments/assets/f9befea0-54b9-4511-9aab-07c4f42c86af" />
+
+
 Investigation identified **six virtual machines** that were targeted by brute-force login attempts originating from **two external IP addresses**.
 
 | Source IP | Device | Action | Failed Logons |
